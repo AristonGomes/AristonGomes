@@ -24,7 +24,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e criar.
 ---
 
 ## 🌟 Projeto em Destaque
-- [Assistente Pessoal com IA](https://github.com/AristonGomes/assistente-ia) – Explorando LLMs e automação.  
+- [Assistente Pessoal com IA]([https://github.com/AristonGomes/assistente-ia](https://github.com/AristonGomes/assistente-pessoal-ia)) – Explorando LLMs e automação.  
 
 ---
 
