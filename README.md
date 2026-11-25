@@ -17,7 +17,7 @@ Uno minha vivência resolvendo gargalos operacionais em escala com **Python, SQL
 ## 🚀 Projetos em Destaque
 
 ### 🔒 Sistemas & Arquitetura de Automação (Documentados)
-- **[LeadFlow Intelligence & Concierge AI](LINK_PUBLICO_DO_GITBOOK)** *(Documentação no GitBook)*  
+- **[LeadFlow Intelligence & Concierge AI](https://nexus-32.gitbook.io/leadflow-intelligence-cliente-portal/)** *(Documentação no GitBook)*  
   Ecossistema modular para captura, deduplicação, scoring e roteamento de leads em tempo real (`Python`, webhooks, manifesto seguro no GCP, sincronização bidirecional com Trello e Data Lake no Google Sheets), integrado ao **Concierge AI** — agente autônomo com RAG dinâmico, comandos de CRM por voz no Telegram e cruzamento de métricas (`Meta Ads` + `GA4` + `CRM`).
 - **SecondBrain** *(em uso pessoal — preparando versão pública sanitizada)*  
   Sistema pessoal de organização de conhecimento, captura e recuperação de informações.
