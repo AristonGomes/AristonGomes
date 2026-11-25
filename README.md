@@ -19,13 +19,14 @@ Uno minha vivência resolvendo gargalos operacionais em escala com **Python, SQL
 ### 🔒 Sistemas & Arquitetura de Automação (Documentados)
 - **[LeadFlow Intelligence & Concierge AI](https://nexus-32.gitbook.io/leadflow-intelligence-cliente-portal/)** *(Documentação no GitBook)*  
   Ecossistema modular para captura, deduplicação, scoring e roteamento de leads em tempo real (`Python`, webhooks, manifesto seguro no GCP, sincronização bidirecional com Trello e Data Lake no Google Sheets), integrado ao **Concierge AI** — agente autônomo com RAG dinâmico, comandos de CRM por voz no Telegram e cruzamento de métricas (`Meta Ads` + `GA4` + `CRM`).
-- **SecondBrain** *(em uso pessoal — preparando versão pública sanitizada)*  
-  Sistema pessoal de organização de conhecimento, captura e recuperação de informações.
 
 ### 📂 Repositórios Públicos
-- **[Assistente Pessoal com IA](https://github.com/AristonGomes/assistente-pessoal-ia)** — Assistente pessoal com NLP, API em **FastAPI** e frontend integrado (`Python`, `Shell`, `HTML`).
+- **[Segundo Cérebro (PKM + IA)](https://github.com/AristonGomes/segundo-cerebro)** — Motor multimodal (texto, áudio, OCR e links) integrado ao **Telegram**, **Google Gemini**, **Obsidian** e **Google Drive**, com geração automática de Mapa de Conteúdo (MOC), taxonomia de tags e consulta RAG (Serverless na Vercel).
+- **[RAG Chatbot AI](https://github.com/AristonGomes/rag-chatbot-ai)** — Aplicação de busca semântica e perguntas sobre documentos locais com **FAISS**, **Sentence Transformers** (`all-MiniLM-L6-v2`), **FastAPI** e **Google Gemini**.
+- **[PDF Summarizer AI](https://github.com/AristonGomes/pdf-summarizer-ai)** — API REST em **FastAPI** para extração e sumarização de PDFs com **Google Gemini**, cache por hash (`Redis`), autenticação JWT e histórico em banco (`SQLAlchemy`).
+- **[Assistente Pessoal com IA](https://github.com/AristonGomes/assistente-pessoal-ia)** — Assistente com roteamento automático de *skills*, memória conversacional, NLP (`NLTK`) e **FastAPI**.
 - **[Organizador de Livros](https://github.com/AristonGomes/organizador-de-livros)** — Utilitário em **Python** para padronizar e categorizar bibliotecas digitais (`EPUB`, `PDF`, `MOBI`) via extração de metadados e regex.
-- **[Organizador de Arquivos](https://github.com/AristonGomes/organizador-de-arquivos)** — Script CLI em **Python** para organização automatizada de diretórios por extensão.
+- **[Organizador de Arquivos](https://github.com/AristonGomes/organizador-de-arquivos)** — Script CLI em **Python** para organização automatizada de diretórios por extensão com log de auditoria.
 
 ---
 
